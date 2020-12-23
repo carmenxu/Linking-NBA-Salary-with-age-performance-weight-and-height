@@ -1,1 +1,2 @@
 # Linking-NBA-Salary-with-age-performance-weight-and-height
+We focus on exploring the correlations between NBA player salary data and actual on-court performance(ranked), height, weight and age. We are using the stats from the 2019/2020 regular season on the official NBA Stats site as one of the data sources. Moreover, NBA salary data will be extracted from HoopsHype and Espn. HoopsHype contains player payroll data up to the 2024/25 seasons and we will only need parts of the data and extract the dataset into a pandas Dataframe. We have our data upload to Github.
